@@ -1,0 +1,7 @@
+// Paste the package.json code here...
+{
+  "name": "nutricoach-ai",
+  "private": true,
+  "version": "0.0.0",
+  // ...and so on
+}
